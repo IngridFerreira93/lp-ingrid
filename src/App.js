@@ -126,7 +126,7 @@ function Footer() {
         <i className="fa-solid fa-envelope"></i> ingrid.b.f@hotmail.com
       </a>
       <a href="tel:+5511964407606" className="footer-link">
-        <i className="fa-solid fa-phone"></i> +55 11 96440-7606
+        <i className="fa-solid fa-phone"></i> +55 11 00000-0000
       </a>
       <div className="footer-icons">
         <a
