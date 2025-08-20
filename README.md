@@ -40,7 +40,7 @@ src/
 ## 📸 Preview
 
 👉 <p align="center">
-  <img src="src/imagens/projeto.png" alt="Preview do Projeto" width="500"/>
+  <img src="src/imagens/projeto.png" alt="Preview do Projeto" width="700"/>
 </p>
 
 ---
