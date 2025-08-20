@@ -39,7 +39,7 @@ src/
 
 ## 📸 Preview
 
-👉 <img src="../lp-ingrid/src/imagens/projeto.png" alt="Texto alternativo da imagem">
+👉 ![Minha foto](./lp-ingrid/src/imagens/projeto.png) <img src="../lp-ingrid/src/imagens/projeto.png" alt="Texto alternativo da imagem">
 
 ---
 
