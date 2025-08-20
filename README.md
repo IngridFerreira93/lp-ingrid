@@ -39,7 +39,9 @@ src/
 
 ## 📸 Preview
 
-👉 ![Minha foto](./lp-ingrid/src/imagens/projeto.png) <img src="../lp-ingrid/src/imagens/projeto.png" alt="Texto alternativo da imagem">
+👉 <p align="center">
+  <img src="src/imagens/projeto.png" alt="Preview do Projeto" width="500"/>
+</p>
 
 ---
 
