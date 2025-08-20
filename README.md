@@ -50,7 +50,7 @@ src/
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/IngridFerreira93/portfolio.git
+   git clone https://github.com/IngridFerreira93/lp-ingrid.git
 
    ```
 
